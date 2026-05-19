@@ -36,7 +36,3 @@ Notes and artifacts from STAPI community sprints, for work developing the
    ![2025 Lisbon community sprint logo](./images/2025-lisbon.svg)
 
    - [Blog Post](https://element84.com/open-source/stapi-sprint-5-0-1-release/)
-
-1. Philadelphia, PA, USA -- October 21-23, 2025
-
-   - [Registration is open now!](https://lu.ma/h7wybmox)
